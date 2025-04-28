@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://blog-post-wasu.onrender.com/api';
 
 // Helper function to get stored token
 const getToken = () => {
